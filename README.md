@@ -126,3 +126,4 @@ This project is a Windows-friendly wrapper around the excellent **stable-diffusi
 
 Z-Image weights and related resources are hosted on Hugging Face by their respective authors.
 
+# Z-Image-Turbo-Windows
